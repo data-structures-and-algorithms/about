@@ -1,4 +1,4 @@
 Data Structures and Algorithms
 ==
 
-This organization aims to gather information on the subject of data structures and algorithms.
+This organization aims to gather information on the topic of data structures and algorithms.
